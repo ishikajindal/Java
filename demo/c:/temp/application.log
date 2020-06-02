@@ -1,0 +1,12 @@
+2020-06-01T22:26:07.584+0530 INFO Starting DemoApplicationTests on Nagarros-MacBook-Pro.local with PID 24485 (started by ishikajindal in /Users/ishikajindal/Desktop/Ishika/demo)
+2020-06-01T22:26:07.590+0530 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-06-01T22:26:07.591+0530 INFO No active profile set, falling back to default profiles: default
+2020-06-01T22:26:11.748+0530 INFO Started DemoApplicationTests in 4.332 seconds (JVM running for 10.473)
+2020-06-01T22:52:07.313+0530 INFO Starting DemoApplication on Nagarros-MacBook-Pro.local with PID 24697 (/Users/ishikajindal/Desktop/Ishika/demo/target/classes started by ishikajindal in /Users/ishikajindal/Desktop/Ishika/demo)
+2020-06-01T22:52:07.320+0530 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-06-01T22:52:07.321+0530 INFO No active profile set, falling back to default profiles: default
+2020-06-01T22:52:11.066+0530 INFO Started DemoApplication in 4.001 seconds (JVM running for 9.852)
+2020-06-02T12:37:04.520+0530 INFO Starting DemoApplicationTests on Nagarros-MacBook-Pro.local with PID 26045 (started by ishikajindal in /Users/ishikajindal/Desktop/Ishika/demo)
+2020-06-02T12:37:04.527+0530 DEBUG Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-06-02T12:37:04.528+0530 INFO No active profile set, falling back to default profiles: default
+2020-06-02T12:37:08.537+0530 INFO Started DemoApplicationTests in 4.198 seconds (JVM running for 10.469)
